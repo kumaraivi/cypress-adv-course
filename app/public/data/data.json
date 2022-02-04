@@ -1,0 +1,54 @@
+{
+  "boards": [
+    {
+      "name": "Updated My Board Name",
+      "id": 24398821013
+    },
+    {
+      "name": "Updated My Board Name",
+      "id": 70799843510
+    },
+    {
+      "name": "Updated My Board Name",
+      "id": 81580969213
+    },
+    {
+      "name": "Create Cypress Samples",
+      "user": 0,
+      "id": 9219623906,
+      "starred": false,
+      "created": "2022-02-01"
+    },
+    {
+      "name": "Create Cypress Samples",
+      "user": 0,
+      "id": 24869095500,
+      "starred": false,
+      "created": "2022-02-01"
+    },
+    {
+      "name": "Create Cypress Samples",
+      "user": 0,
+      "id": 26848773470,
+      "starred": false,
+      "created": "2022-02-01"
+    },
+    {
+      "name": "Create Cypress Samples",
+      "user": 0,
+      "id": 40518441529,
+      "starred": false,
+      "created": "2022-02-01"
+    },
+    {
+      "name": "Create Cypress Samples",
+      "user": 0,
+      "id": 39205874006,
+      "starred": false,
+      "created": "2022-02-01"
+    }
+  ],
+  "tasks": [],
+  "users": [],
+  "lists": []
+}
